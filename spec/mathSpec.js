@@ -1,1 +1,1 @@
-var math = require('../math.js');
+var math = require('../src/math.js');
