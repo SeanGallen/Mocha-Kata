@@ -43,7 +43,7 @@ describe('Calculator', function() {
   });
   describe('logtest', function() {
     it('should be able to logarithm of only 2 and 3', function() {
-      assert.equal(math.log(33,100), "only can use 2 or 10");
+      assert.equal(math.log(33,100), 33 + "is not a valued number for log");
     });
   });
 });
