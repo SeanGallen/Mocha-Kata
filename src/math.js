@@ -1,20 +1,22 @@
-exports.add = function(a, b) {
+var Calculator = {};
+
+Calculator.add = function(a, b) {
   return a + b;
 };
 
-exports.sub = function(a, b) {
+Calculator.sub = function(a, b) {
   return a - b;
 };
 
-exports.div = function(a, b) {
+Calculator.div = function(a, b) {
   return a / b;
 };
 
-exports.mul = function(a, b) {
+Calculator.mul = function(a, b) {
   return a * b;
 };
 
-exports.log = function(a, b) {
+Calculator.log = function(a, b) {
   if (a === 2)
   {
     return Math.log2(b);
@@ -26,3 +28,5 @@ exports.log = function(a, b) {
   return a + 'is not a valued number for log';
 
 };
+
+module.exports = Calculator;
