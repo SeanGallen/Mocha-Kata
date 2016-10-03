@@ -1,6 +1,10 @@
 var assert = require('assert');
 var calculator = require('../src/math.js');
 
+beforeEach('Rool Level Hooks', function() {
+  console.log('before every test run this Root Level Hook');
+});
+
 describe('Calculator', function() {
   describe('Modulate the file', function() {
     it('calculator is an object', function() {
