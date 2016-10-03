@@ -1,5 +1,5 @@
-Learning Mocha Testing for Javascript.<br>
-Right now, I have a simple Calculator with some functionality.
+<b>Learning Mocha Testing for Javascript.</b><br>
+Right now, I have a simple Calculator with some functionality.<br>
 At times, I will add tests just to try them out even if the program does not need it.
 
 
