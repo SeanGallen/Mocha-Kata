@@ -1,0 +1,8 @@
+{
+  "name": "my_mocha-testing",
+  "version": "1.0.0",
+  "devDependencies" : {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
