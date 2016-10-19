@@ -20,3 +20,11 @@ Plans for the future:
 <li>Test httml and DOM.</li>
 <li>Create something more exciting than a calculator.</li>
 </ul>
+
+Tests for html project.
+  document.images
+  change an images's attributes.
+  document.getElementById("exam")
+  document.getElementById("myBtn").onclick = displayDate;
+
+
