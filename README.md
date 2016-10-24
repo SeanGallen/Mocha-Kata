@@ -1,4 +1,4 @@
-<b>Learning Mocha Testing for Javascript.</b><br>
+<b>Learning Mocha Kata.</b><br>
 <br>
 Right now, I have a simple Calculator with some functionality.<br>
 At times, I will add tests just to try them out even if the program does not need it.
@@ -28,3 +28,4 @@ Tests for html project.
   document.getElementById("myBtn").onclick = displayDate;
 
 
+More information on Mocha can be found here: https://mochajs.org/
