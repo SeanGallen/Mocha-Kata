@@ -17,7 +17,7 @@ Plans for the future:
 <li>Use other parts of Mocha.</li>
 <li>Use Add-ons like Chai, should.js and Stubs.</li>
 <li>Should testing results in the browser.</li>
-<li>Test httml and DOM.</li>
+<li>Test html and DOM.</li>
 <li>Create something more exciting than a calculator.</li>
 </ul>
 
