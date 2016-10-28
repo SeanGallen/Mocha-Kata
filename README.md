@@ -21,11 +21,8 @@ Plans for the future:
 </ul>
 
 Tests for html project
-<form action="demo_form.asp" method="get">
-  <input type="checkbox">  document.images<br>
-  <input type="checkbox"> change an images's attributes.<br>
-  <input type="checkbox"> document.getElementById('myBtn').onclick = displayDate; <br>
-  <input type="submit" value="Submit">
-</form>
-
+ [] document.images
+ [] change an images's attributes.
+ [] document.getElementById('myBtn').onclick = displayDate; 
+<br>
 More information on Mocha can be found here: https://mochajs.org/
