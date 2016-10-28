@@ -20,9 +20,9 @@ Plans for the future:
 <li>Create something more exciting than a calculator.</li>
 </ul>
 
-Tests for html project
- [] document.images
- [] change an images's attributes.
- [] document.getElementById('myBtn').onclick = displayDate; 
-<br>
+Tests for html project<br>
+ [] document.images <br>
+ [] change an images's attributes.<br>
+ [] document.getElementById('myBtn').onclick = displayDate; <br>
+
 More information on Mocha can be found here: https://mochajs.org/
