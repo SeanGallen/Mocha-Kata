@@ -1,6 +1,7 @@
-<b>Learning Mocha Kata.</b><br>
+<b>Learning Mocha and Chai Kata.</b><br>
 <br>
-Right now, I have a simple Calculator with some functionality.<br>
+This started off as a simple Calculator with some functionality.<br>
+It is now testing the DOM.
 At times, I will add tests just to try them out even if the program does not need it.
 
 
@@ -15,17 +16,16 @@ doc
 Plans for the future:
 <ul>
 <li>Use other parts of Mocha.</li>
-<li>Use Add-ons like Chai, should.js and Stubs.</li>
-<li>Should testing results in the browser.</li>
-<li>Test html and DOM.</li>
+<li>Use Add-ons like should.js and Stubs.</li>
 <li>Create something more exciting than a calculator.</li>
 </ul>
 
-Tests for html project.
-  document.images
-  change an images's attributes.
-  document.getElementById("exam")
-  document.getElementById("myBtn").onclick = displayDate;
-
+Tests for html project
+<form action="demo_form.asp" method="get">
+  <input type="checkbox">  document.images<br>
+  <input type="checkbox"> change an images's attributes.<br>
+  <input type="checkbox"> document.getElementById('myBtn').onclick = displayDate; <br>
+  <input type="submit" value="Submit">
+</form>
 
 More information on Mocha can be found here: https://mochajs.org/
